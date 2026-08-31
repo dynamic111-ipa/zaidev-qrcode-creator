@@ -1,0 +1,6 @@
+{
+  "name": "QR Forge",
+  "description": "Create custom, high-quality QR codes with logos, frames, and custom colors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
